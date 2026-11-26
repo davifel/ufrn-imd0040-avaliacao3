@@ -1,0 +1,5 @@
+F;1;Velozes+e+Furiosos;ACAO;14;130;EXIBICAO
+S;NORMAL;1;1;120;120;18:00;false;false
+S;DBOX;2;3;40;40;20:30;true;false
+F;2;Divertida+Mente+2;ANIMACAO;0;100;EXIBICAO
+S;VIP;3;2;30;30;16:00;true;true
